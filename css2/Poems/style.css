@@ -1,0 +1,91 @@
+h1{
+    font-size: 50px;
+    }
+    h1 {
+      margin-left: 10px;
+      text-align:center;
+    }
+  h1{
+    color:violet;
+      text-shadow: 1px 1px 0px #000000;}
+     h1:hover {
+      color:purple;
+     }
+     h1{
+        font-family: 'Architects Daughter', cursive;
+        font-family: 'Great Vibes', cursive;
+        font-family: 'Hurricane', cursive;
+        font-family: 'Indie Flower', cursive;
+     }
+     #five{
+        text-align: center;
+        
+      }
+      #papa{
+        text-align: center;
+        
+      }
+      #video{
+        text-align: center;
+      }
+      h2{
+        font-family: 'Architects Daughter', cursive;
+        font-family: 'Great Vibes', cursive;
+        font-family: 'Hurricane', cursive;
+      }
+      h2{
+        font-size: 50px;
+        }
+        h2 {
+          margin-left: 10px;
+          text-align:center;
+        }
+        h2{
+        color:indigo;
+          text-shadow: 1px 1px 0px #000000;}
+         h2:hover {
+          color:yellowgreen;
+         }
+         h3{
+            font-family: 'Architects Daughter', cursive;
+            font-family: 'Great Vibes', cursive;
+            font-family: 'Hurricane', cursive;
+          }
+          h3{
+            font-size: 50px;
+            }
+            h3 {
+              margin-left: 10px;
+              text-align:center;
+            }
+            h3{
+            color:firebrick;
+              text-shadow: 1px 1px 0px #000000;}
+             h3:hover {
+              color:peru;
+             }
+             h4{
+                font-family: 'Architects Daughter', cursive;
+                font-family: 'Great Vibes', cursive;
+                font-family: 'Hurricane', cursive;
+              }
+              h4{
+                font-size: 50px;
+                }
+                h4 {
+                  margin-left: 10px;
+                  text-align:center;
+                }
+                h4{
+                color:yellow;
+                  text-shadow: 1px 1px 0px #000000;}
+                 h4:hover {
+                  color:olive;
+                 }
+                 body{
+                    background-color: #C0C0C0;
+                  }
+                  .button{
+                    color: black;
+                    background-color:#6495ED;
+                  }

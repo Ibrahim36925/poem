@@ -1,0 +1,112 @@
+h1{
+    font-size: 50px;
+    }
+    h1 {
+      margin-left: 10px;
+      text-align:center;
+    }
+  h1{
+    color:saddlebrown;
+      text-shadow: 1px 1px 0px #000000;}
+     h1:hover {
+      color:violet;
+     }
+     h1{
+      font-family: 'Sacramento', cursive;
+     }
+     #book{
+        text-align: center;
+        
+      }
+      #video{
+        text-align: center;
+        
+      }
+      h3{
+        font-family: 'Architects Daughter', cursive;
+        font-family: 'Caveat', cursive;
+        font-family: 'Great Vibes', cursive;
+        font-family: 'Hurricane', cursive;
+        font-family: 'Satisfy', cursive;
+      }
+      h4{
+        font-size: 50px;
+        }
+        h4 {
+          margin-left: 10px;
+          text-align:center;
+        }
+      h4{
+        color:green;
+          text-shadow: 1px 1px 0px #000000;}
+         h4:hover {
+          color:firebrick;
+         }
+         h1{
+            font-size: 50px;
+            }
+            h1 {
+              margin-left: 10px;
+              text-align:center;
+            }
+          h1{
+            color:khaki;
+              text-shadow: 1px 1px 0px #000000;}
+             h1:hover {
+              color:indigo;
+             }
+             h1{
+                font-family: 'Architects Daughter', cursive;
+                font-family: 'Great Vibes', cursive;
+                font-family: 'Hurricane', cursive;
+                font-family: 'Indie Flower', cursive;
+             }
+             
+             #story{
+                margin-left: auto;
+                margin-right: auto;
+                width: 50%
+
+             }
+             h2{
+                font-size: 50px;
+                }
+                h2 {
+                  margin-left: 10px;
+                  text-align:center;
+                }
+              h2{
+                color:royalblue;
+                  text-shadow: 1px 1px 0px #000000;}
+                 h2:hover {
+                  color:lightcoral;
+                 }
+                 h3{
+                    font-family: 'Architects Daughter', cursive;
+                    font-family: 'Caveat', cursive;
+                    font-family: 'Courgette', cursive;
+                    font-family: 'Great Vibes', cursive;
+                    font-family: 'Hurricane', cursive;
+                    font-family: 'Inspiration', cursive;
+                    font-family: 'Satisfy', cursive;
+                 }
+                 h3{
+                    font-size: 50px;
+                    }
+                    h3 {
+                      margin-left: 10px;
+                      text-align:center;
+                    }
+                  h3{
+                    color:saddlebrown;
+                      text-shadow: 1px 1px 0px #000000;}
+                     h3:hover {
+                      color:violet;
+                     }
+                     body{
+                        background-color: #C0C0C0;
+                      }
+                      .button{
+                        color: black;
+                        background-color:#6495ED;
+                      }

@@ -1,0 +1,92 @@
+#novel{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%
+
+ }
+ body{
+    background-color: #C0C0C0;
+  }
+  h1{
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Hurricane', cursive;
+    font-family: 'Inspiration', cursive;
+    font-family: 'Satisfy', cursive;
+  }
+  h1 {
+    margin-left: 10px;
+    text-align:center;
+    font-size: 30px;
+  }
+h1{
+  color:indianred;
+    text-shadow: 1px 1px 0px #000000;}
+   h1:hover {
+    color:purple;
+   }
+   h2{
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Hurricane', cursive;
+    font-family: 'Inspiration', cursive;
+    font-family: 'Satisfy', cursive;
+  }
+  h2 {
+    margin-left: 10px;
+    text-align:center;
+    font-size: 30px;
+  }
+h2{
+  color:gold;
+    text-shadow: 1px 1px 0px #000000;}
+   h2:hover {
+    color:violet;
+   }
+   #video{
+       text-align: center;
+   }
+   h3{
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Hurricane', cursive;
+    font-family: 'Inspiration', cursive;
+    font-family: 'Satisfy', cursive;
+  }
+  h3 {
+    margin-left: 10px;
+    text-align:center;
+    font-size: 30px;
+  }
+h3{
+  color:seagreen;
+    text-shadow: 1px 1px 0px #000000;}
+   h3:hover {
+    color:slateblue;
+   }
+   h4{
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Hurricane', cursive;
+    font-family: 'Inspiration', cursive;
+    font-family: 'Satisfy', cursive;
+  }
+  h4 {
+    margin-left: 10px;
+    text-align:center;
+    font-size: 30px;
+  }
+h4{
+  color:purple;
+    text-shadow: 1px 1px 0px #000000;}
+   h1:hover {
+    color:indianred;
+   }
+   .button{
+    color: black;
+    background-color:#6495ED;
+   }

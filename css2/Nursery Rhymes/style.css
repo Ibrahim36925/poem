@@ -1,0 +1,89 @@
+h1{
+    font-family: 'Hurricane', cursive;
+     font-size: 50px;
+    }
+    h1 {
+      margin-left: 10px;
+      text-align:center;
+    }
+    h1:first-letter{
+        color: darkblue;
+        font-size: 60px;    
+     }
+  h1{
+    color:#FFBF00;
+      text-shadow: 1px 1px 0px #000000;}
+     h1:hover {
+      color:purple;
+     }
+     #Twinkle{
+        text-align: center;
+        
+      }
+      #video{
+        text-align: center;
+      }
+      #coco{
+        text-align: center;
+        
+      }
+        h3{
+            font-family: 'Hurricane', cursive;
+             font-size: 50px;
+            }
+            h3 {
+              margin-left: 10px;
+              text-align:center;
+            }
+          h3{
+            color:aqua;
+              text-shadow: 1px 1px 0px #000000;}
+             h3:hover {
+              color:red;
+             }
+        
+        h2{
+            font-family: 'Architects Daughter', cursive;
+            font-family: 'Hurricane', cursive;
+            font-family: 'Indie Flower', cursive;
+        }
+        h2{
+            font-family: 'Hurricane', cursive;
+             font-size: 50px;
+            }
+            h2 {
+              margin-left: 10px;
+              text-align:center;
+            }
+          h2{
+            color:slateblue;
+              text-shadow: 1px 1px 0px #000000;}
+             h2:hover {
+              color:greenyellow;
+             }
+             h4{
+                font-family: 'Architects Daughter', cursive;
+                font-family: 'Hurricane', cursive;
+                font-family: 'Indie Flower', cursive;
+            }
+            h4{
+                font-family: 'Hurricane', cursive;
+                 font-size: 50px;
+                }
+                h4 {
+                  margin-left: 10px;
+                  text-align:center;
+                }
+              h4{
+                color:palevioletred;
+                  text-shadow: 1px 1px 0px #000000;}
+                 h4:hover {
+                  color:lavenderblush;
+                 }
+                 body{
+                    background-color: #C0C0C0;
+                  }
+                  .button{
+                    color: black;
+                    background-color:#6495ED;
+                  }

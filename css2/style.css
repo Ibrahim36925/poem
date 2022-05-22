@@ -1,0 +1,135 @@
+h1{
+    font-family: 'Hurricane', cursive;
+    font-size: 50px;
+}
+h1:first-letter{
+      color: purple;
+      font-size: 60px;    
+   }
+
+h1 {
+  margin-left: 10px;
+    text-align: center;}
+    h1{
+        color: orangered;
+        text-shadow: 1px 1px 0px #000000;}
+        h1:hover {
+          color:yellow;
+        }
+        h2{
+          font-family: 'Hurricane', cursive;
+           font-size: 50px;
+          }
+          h2 {
+            margin-left: 10px;
+            text-align:center;
+          }
+        h2{
+          color:#DE3163;
+            text-shadow: 1px 1px 0px #000000;}
+           h2:hover {
+            color:grey;
+           }
+        
+        h3{
+          font-family: 'Hurricane', cursive;
+           font-size: 50px;
+          }
+          h3 {
+            margin-left: 10px;
+            text-align:center;
+          }
+        h3{
+          color:#40E0D0;
+            text-shadow: 1px 1px 0px #000000;}
+           h3:hover {
+            color:green;
+           }
+           h4{
+            font-family: 'Hurricane', cursive;
+             font-size: 50px;
+            }
+            h4 {
+              margin-left: 10px;
+              text-align:center;
+            }
+          h4{
+            color:#6495ED;
+              text-shadow: 1px 1px 0px #000000;}
+             h4:hover {
+              color:brown;
+             }
+           
+  nav{
+  width: 100%;
+  background-color: #00b3e6;
+  overflow: auto;
+}
+  ul{
+    width:100%;
+    margin: 0 0 0 250px;
+    list-style: none;
+}
+li{
+  float: left;
+}
+  li a{
+    width: 100px;
+    display: block;
+    padding: 20px 15px;
+    text-decoration: none;
+    font-family:Arial;
+    color: #f2f2f2;
+    text-align: center;
+  }
+  li a:hover{
+    background-color: grey;
+    text-transform: uppercase;
+  }
+    .logo img{
+      position: absolute;
+      margin-top: 5px;
+      margin-left: 10px;
+    }
+   *{
+     box-sizing:border-box;
+   }
+   #nursery{
+     float: left;
+     margin-left: 100px;
+     margin-right: 100px;
+     padding: 1px;
+     
+   }
+   h3{
+   font-family: 'Hurricane', cursive;
+   font-family: 'Shadows Into Light', cursive;
+   }
+  #story{
+    float: left;
+     margin-left: 100px;
+     margin-right: 100px;
+     padding: 1px;
+  }
+  h2{
+  font-family: 'Hurricane', cursive; 
+  }
+  #poems{
+    float: left;
+     margin-left: 100px;
+     margin-right: 100px;
+     padding: 1px;
+  }
+  h4{
+    font-family: 'Hurricane', cursive;
+    font-family: 'Indie Flower', cursive;
+  }
+  #novels{
+    float: left;
+     margin-left: 100px;
+     margin-right: 100px;
+     padding: 1px;
+  }
+  body{
+    background-color: #C0C0C0;
+  }
